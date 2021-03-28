@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Genk</string>
+    <string name="bio_text">As a user navigates through, out of, and back to your app, the Activity instances in your app transition through different states in their lifecycle. The Activity class provides a number of callbacks that allow the activity to know that a state has changed: that the system is creating, stopping, or resuming an activity, or destroying the process in which the activity resides. Within the lifecycle callback methods, you can declare how your activity behaves when the user leaves and re-enters the activity. For example, if youre building a streaming video player, you might pause the video and terminate the network connection when the user switches to another app. When the user returns, you can reconnect to the network and allow the user to resume the video from the same spot. In other words, each callback allows you to perform specific work thats appropriate to a given change of state. Doing the right work at the right time and handling transitions properly make your app more robust and performant. For example, good implementation of the lifecycle callbacks can help ensure that your app avoids: </string>
+    <string name="done">Done</string>
+</resources>
