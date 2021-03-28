@@ -1,2 +1,2 @@
-# Android-SleepTracker
-Android Project 
+# Android
+Android Project udacity course
