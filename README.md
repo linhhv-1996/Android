@@ -1,2 +1,2 @@
 # Android
-Android Project udacity course
+Android Project
